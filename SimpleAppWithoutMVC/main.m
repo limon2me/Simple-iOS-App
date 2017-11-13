@@ -1,6 +1,6 @@
 //
 //  main.m
-//  Test1
+//  SimpleAppWithoutMVC
 //
 //  Created by Vladimir Khabarov on 25.09.17.
 //  Copyright © 2017 vs-khabarov. All rights reserved.
